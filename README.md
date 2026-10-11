@@ -2,7 +2,6 @@
 Professional documentation detailing veterinary interoperability challenges, missing clinical history, and financial loss metrics.
 
 
-================================================================================
 VETERINARY CARE FRAGMENTATION & ECONOMIC IMPACT ANALYSIS
 Author: Nousin Rahman | Zicklin School of Business, Baruch College
 ================================================================================
